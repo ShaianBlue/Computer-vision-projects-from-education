@@ -1,1 +1,1 @@
-This repository contains all machine learning codes from my education
+This repository contains all computer vision and image analysis codes from my education
